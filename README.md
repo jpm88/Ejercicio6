@@ -1,4 +1,4 @@
 Ejercicio6
 ==========
 
-Repositorio creado para el ejercicio 6
+Modificado para el ejercicio 6
